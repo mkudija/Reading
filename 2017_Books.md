@@ -1,4 +1,4 @@
-#2017 Books
+# 2017 Books
 
 - *So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love* by Cal Newport
 - *Pride & Prejudice* by Jane Austen
@@ -9,7 +9,7 @@
 - *Legacy* by James Kerr
 - *Moneyball* by Michael Lewis
 - *Hillbilly Elegy: A Memoir of a Family and Culture in Crisis* by J.D. Vance
--  *Mornings on Horseback: The Story of an Extraordinary Family, a Vanished Way of Life and the Unique Child Who Became Theodore Roosevelt* by David McCullough
+- *Mornings on Horseback: The Story of an Extraordinary Family, a Vanished Way of Life and the Unique Child Who Became Theodore Roosevelt* by David McCullough
 - *Unoverse of Stone: A Biography of Chartres Cathedral* by Philip Ball
 - *Seabiscuit* by Laura Hillenbrand
 - *Highest Duty* by Chesley B. Sullenberger
@@ -35,4 +35,6 @@
 - *The Diary of a Country Priest* by Georges Bernanos
 - *The Man Who Was Thursday* by G.K. Chesterton
 - *Player Piano* by Kurt Vonnegut
+- *Beyond Band of Brothers* by Major Dick Winters
 -
+- *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation...
