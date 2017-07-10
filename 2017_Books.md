@@ -10,7 +10,7 @@
 - *Moneyball* by Michael Lewis
 - *Hillbilly Elegy: A Memoir of a Family and Culture in Crisis* by J.D. Vance
 - *Mornings on Horseback: The Story of an Extraordinary Family, a Vanished Way of Life and the Unique Child Who Became Theodore Roosevelt* by David McCullough
-- *Unoverse of Stone: A Biography of Chartres Cathedral* by Philip Ball
+- *Universe of Stone: A Biography of Chartres Cathedral* by Philip Ball
 - *Seabiscuit* by Laura Hillenbrand
 - *Highest Duty* by Chesley B. Sullenberger
 - *Fire on the Horizon: The Untold Story of the Gulf Oil Disaster* by John Konrad & Tom Shroder
