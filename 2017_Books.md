@@ -36,5 +36,10 @@
 - *The Man Who Was Thursday* by G.K. Chesterton
 - *Player Piano* by Kurt Vonnegut
 - *Beyond Band of Brothers* by Major Dick Winters
+- *Chaos: Making a New Science* by James Gleick
+- *Salary Tutor* by Jim Hopkinson
+- *Never Split The Difference: Negotiating As If Your Life Depended On It* by Chris Voss
+- *On Writing: A Memoir of the Craft* by Stephen King
+- *Into Thin Air: A Personal Account of the Mt. Everest Disaster* by Jon Krakauer
 -
 - *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation...
