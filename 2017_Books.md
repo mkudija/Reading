@@ -41,5 +41,11 @@
 - *Never Split The Difference: Negotiating As If Your Life Depended On It* by Chris Voss
 - *On Writing: A Memoir of the Craft* by Stephen King
 - *Into Thin Air: A Personal Account of the Mt. Everest Disaster* by Jon Krakauer
--
-- *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation...
+- *Evicted: Poverty and Profit in the American City* by Matthew Desmond
+- *Airport* by Arthur Hailey
+- *Perennial Seller: The Art of Making and Marketing Work That Lasts* by Ryan Holiday
+- *Heart of Darkness* by Joseph Conrad
+- *Alexander Hamilton* by Ron Chernow
+- *Philology: The Forgotten Origins of the Modern Humanities* by James Turner
+- *The Circle* by Dave Eggers
+- *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job...
