@@ -48,4 +48,6 @@
 - *Alexander Hamilton* by Ron Chernow
 - *Philology: The Forgotten Origins of the Modern Humanities* by James Turner
 - *The Circle* by Dave Eggers
+- *Applied Economics: Thinking Beyond Stage One* by Thomas Sowell
+- *The Red Tent* by Anita Diamant
 - *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job...
