@@ -50,4 +50,10 @@
 - *The Circle* by Dave Eggers
 - *Applied Economics: Thinking Beyond Stage One* by Thomas Sowell
 - *The Red Tent* by Anita Diamant
+- *Poetry as Prayer: Jesica Powers* by Robert F. Morneau
+- *The Fortunes of Poetry in and Age of Unmaking* by James Matthew Wilson
+- *Reagan: The Life* by H.W. Brands
+- *The Sale of a Lifetime: How the Great Bubble Burst of 2017-2019 Can Make You Rich* by Harry S. Dent, Jr.
+- *The Vatican Diaries: A Behind-the-Scenes Look at the Power, Personalities, and Politics at the Heart of the Catholic Church*
+- *The Road to Character* by David Brooks
 - *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job...
