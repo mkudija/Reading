@@ -56,4 +56,9 @@
 - *The Sale of a Lifetime: How the Great Bubble Burst of 2017-2019 Can Make You Rich* by Harry S. Dent, Jr.
 - *The Vatican Diaries: A Behind-the-Scenes Look at the Power, Personalities, and Politics at the Heart of the Catholic Church* by John Thavis
 - *The Road to Character* by David Brooks
+- *Rise, Let Us Be On Our Way* by John Paul II
+- *The Bridges at Toko-Ri* by James A. Michener
+- *The Shallows: What the Internet is Doing to Our Brains* by Nicholas Carr
+- *Saint Padre Pio: In the Footsteps of Saint Francis* by Michael J. Ruszala
+- *The Creed: Professing the Faith Through the Ages* by Scott Hahn
 - *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job...
