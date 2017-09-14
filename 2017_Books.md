@@ -61,4 +61,8 @@
 - *The Shallows: What the Internet is Doing to Our Brains* by Nicholas Carr
 - *Saint Padre Pio: In the Footsteps of Saint Francis* by Michael J. Ruszala
 - *The Creed: Professing the Faith Through the Ages* by Scott Hahn
-- *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job...
+- *The Trial and Death of Socrates: Apology, Phaedo* by Plato
+- *Aristotle for Everybody* by Mortimer J. Adler
+- *Alone on the Wall* by Alex Honnold
+- *The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts* by Joshua Hammer
+- *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah...
