@@ -65,4 +65,10 @@
 - *Aristotle for Everybody* by Mortimer J. Adler
 - *Alone on the Wall* by Alex Honnold
 - *The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts* by Joshua Hammer
-- *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah...
+- *Farnsworth’s Classical English Rhetoric* by Ward Farnsworth
+- *The Will to Climb* by Ed Viesturs
+- *The Ethics of Authenticity* by Charles Taylor
+- *Truth Overruled: The Future of Marriage and Religious Freedom* by Ryan T. Anderson
+- *Things I Wish I’d Know Before We Got Married* by Gary Chapman
+- *Wolf Hall* by Hilary Mantel
+- *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah, Wisdom...

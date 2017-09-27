@@ -34,7 +34,7 @@
 <li><i>Into the Breach: An Apostolic Exhortation</i> by Bishop Thomas J. Olmsted </li>
 <li><i>Catholic Realism: A Framework for the Refutation of Atheism and the Evangelization of Atheists</i> by Sebastian Mahfood</li>
 <li><i>Humanae Vitae</i> by Pope Paul VI</li>
-<li><i>Pillars of the Earth</i> by Ken Follett</li>
+<li><i>The Pillars of the Earth</i> by Ken Follett</li>
 <li><i>Joy to the World: How Christ’s Coming Changed the World (and Still Does)</i> by Scott Hahn</li>
 <li><i>Live Today Well: St. Francis de Sales's Simple Approach to Holiness</i> by Fr. Thomas F. Dailey, O.S.F.S.</li>
 <li><i>Meditations for Advent</i> by Jacques-Bénigne Bossuet</li>
